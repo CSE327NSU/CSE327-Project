@@ -1,0 +1,4 @@
+#Fri Dec 28 20:44:15 BDT 2018
+base.0=/Users/mac/Desktop/CSE327Final/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/mac/Desktop/CSE327Final/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
